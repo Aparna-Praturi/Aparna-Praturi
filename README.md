@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ## 📄 Resume
 You can download my latest resume here:  
-👉 [Download Resume (PDF)](resume.pdf)
+👉 [Download Resume (PDF)](Aparna_Praturi_Resume.pdf)
